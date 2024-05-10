@@ -1,2 +1,2 @@
-# Angular
-This is a simple project made using Angular that describes about me. 
+# About Me
+Behold my latest creation, a sleek and dynamic personal portfolio crafted entirely with Angular and JavaScript. This project serves as a comprehensive showcase of my skills, experiences, and achievements. Powered by Angular's robust framework and enhanced with JavaScript's interactivity, it offers visitors a seamless browsing experience while showcasing my work in an engaging manner. From elegant design to smooth navigation, every element reflects my commitment to excellence in web development. Explore my world, discover my passion, and connect with me through this meticulously crafted Angular-powered portfolio.
